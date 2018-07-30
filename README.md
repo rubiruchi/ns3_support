@@ -3,4 +3,6 @@ This repository contains the sumo, c++ and ns3 files for your reference. Find st
 
 Modified code of ns3/src/ofswitch13/example is in the file ofswitch13-modify.cc 
 
-Screenshot of result is also given.
+generated log is also provided.
+
+SUMO folder contains files for generating vehicles for simulation in network simulator 3.
